@@ -134,3 +134,7 @@ curl -X POST -H "x-api-key: <YOUR_API_KEY>" \
   -d '{"session_name": "default", "recipient_chat_id": "1234567890@c.us", "message_text": "Hello!"}' \
   http://localhost:3000/api/sendText
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
